@@ -1,4 +1,4 @@
-# Getting Started
+# Spring Boot MySQL Project
 
 ### Reference Documentation
 For further reference, please consider the following sections:
